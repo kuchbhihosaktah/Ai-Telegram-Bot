@@ -8,5 +8,5 @@ This bot can generate **images** (Stable Diffusion) and **videos** (Open-Sora).
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AI-Telegram-Bot.git
+   git clone https://github.com/kuchbhihosaktah/Ai-Telegram-Bot.git
    cd AI-Telegram-Bot
