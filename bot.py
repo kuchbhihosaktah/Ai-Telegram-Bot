@@ -9,7 +9,7 @@ import os
 # =========================
 # EDIT ONLY THESE TWO LINES
 TOKEN = "8386912250:AAHWppIHrXHpG8lQuZ7l3xkO4AjMUkIkhZg"       # Telegram Bot Token
-HF_TOKEN = "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" # Hugging Face Token
+HF_TOKEN = "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" # Hugging Face Token
 # =========================
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
